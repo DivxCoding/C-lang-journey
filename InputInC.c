@@ -1,5 +1,6 @@
 #include<stdio.h>
 //input in C language
+//Format Specifiers
 
 int main(){
     int a;
