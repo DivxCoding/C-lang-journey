@@ -1,2 +1,2 @@
 # C-lang-journey
-c lang repo
+This repo contains my C language journey.
